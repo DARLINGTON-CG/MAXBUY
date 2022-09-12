@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970074959382",
+    "project_id": "max-buy",
+    "storage_bucket": "max-buy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970074959382:android:cb5298b03f441d8e638f37",
+        "android_client_info": {
+          "package_name": "com.example.maxbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970074959382-smjbicgqv9m0bdjblnqt92na9sh5c41n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpe_dZ5B-Ec32s7d2y4YdJR6teySMqBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970074959382-smjbicgqv9m0bdjblnqt92na9sh5c41n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
